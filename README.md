@@ -23,9 +23,9 @@ Tek tıkla şifre değiştirmenize yarayan açık kaynak kodlu bir şifre deği�
 
 ## Açılış Sayfasındaki ArkaPlan Nasıl Değiştirilir
 
-1- background.pxz Dosyasını indirin
-2- [Pixlr](https://pixlr.com/tr/e/)'i açın ve içine atın
-3- Şimdi rengini değiştirebilirsiniz
+1. background.pxz Dosyasını indirin
+2. [Pixlr](https://pixlr.com/tr/e/)'i açın ve içine atın
+3. Şimdi rengini değiştirebilirsiniz
 
 ## DirectoryServices hatası nasıl çözülür?
 
