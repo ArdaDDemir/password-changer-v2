@@ -41,8 +41,9 @@ using System.DirectoryServices;
 ## Yardımcı Olacak İçerikler
 
 1. Visual Studio 2022 (net=6) ile kodlandı.
-2.  <img src="https://cdn.ardademir.me/img/passload_31.png" alt="Görsel 2" width="839" height="877">
-Tüm kodların üstünde/altında açıklamaları var
+2. Tüm kodların üstünde/altında açıklamaları var
+  <img src="https://cdn.ardademir.me/img/passload_31.png" alt="Görsel 2" width="839" height="877">
+
 
 
 **İyi Kullanımlar**
