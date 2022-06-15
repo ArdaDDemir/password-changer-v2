@@ -23,7 +23,7 @@ Tek tıkla şifre değiştirmenize yarayan açık kaynak kodlu bir şifre deği�
 
 ## Açılış Sayfasındaki ArkaPlan Nasıl Değiştirilir
 
-1. background.pxz Dosyasını indirin
+1. [background.pxz](https://raw.githubusercontent.com/ArdaDDemir/password-changer-v2/main/Pixlr/background.pxz) Dosyasını indirin (Üstüne basarak indirebilirsiniz)
 2. [Pixlr](https://pixlr.com/tr/e/)'i açın ve içine atın
 3. Şimdi rengini değiştirebilirsiniz
 
@@ -37,3 +37,12 @@ Tek tıkla şifre değiştirmenize yarayan açık kaynak kodlu bir şifre deği�
 ```
 using System.DirectoryServices;
 ```
+
+## Yardımcı Olacak İçerikler
+
+1. Visual Studio 2022 (net=6) ile kodlandı.
+2.  <img src="https://cdn.ardademir.me/img/passload_31.png" alt="Görsel 2" width="839" height="877">
+Tüm kodların üstünde/altında açıklamaları var
+
+
+**İyi Kullanımlar**
