@@ -18,7 +18,7 @@ Tek tıkla şifre değiştirmenize yarayan açık kaynak kodlu bir şifre deği�
 **Açılış Sayfası**
 
 <p align="left">
-  <img src="https://cdn.ardademir.me/img/pass_load%20(2).png" alt="Görsel 2" width="275" height="350">
+  <img src="https://cdn.ardademir.me/img/Screenshot_2.png" alt="Görsel 2" width="275" height="350">
 </p>
 
 ## Açılış Sayfasındaki ArkaPlan Nasıl Değiştirilir
